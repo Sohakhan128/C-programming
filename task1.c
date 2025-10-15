@@ -1,6 +1,3 @@
-#include<stdio.h>
-
-int main () {
 /*
 Name: Khan Soha Mohammed Amin
 Age: 18
@@ -9,6 +6,9 @@ Batch: D
 UIN: 251P104
 */
 
+#include<stdio.h>
+
+int main()
 printf("Name: Khan Soha Mohammed Amin\n");
 printf("Age: 18\n");
 printf("Class: F.E. (Computer2)\n");
@@ -18,3 +18,4 @@ printf("UIN: 251P104\n");
 return 0;
 
 }
+
