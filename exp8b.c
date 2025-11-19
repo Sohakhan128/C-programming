@@ -5,7 +5,6 @@
       UIN: 251P104
     */
     
-
 #include <stdio.h>
 #include <string.h>
 int main() {
@@ -30,4 +29,5 @@ int main() {
 
     return 0;
 }
+
 
